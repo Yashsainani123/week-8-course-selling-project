@@ -17,5 +17,13 @@
     "mongoose": "^8.6.3",
     "nodemon": "^3.1.7",
     "week-8-course-selling-app": "file:"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashsainani123/week-8-course-selling-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yashsainani123/week-8-course-selling-project/issues"
+  },
+  "homepage": "https://github.com/Yashsainani123/week-8-course-selling-project#readme"
 }
